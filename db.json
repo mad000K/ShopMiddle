@@ -20,6 +20,13 @@
         "sirname": "crips",
         "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
         "price": 600
+    },
+    {
+        "id": 5,
+        "name": "lays",
+        "sirname": "crips",
+        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
+        "price": 600
     }
    ]
 }
