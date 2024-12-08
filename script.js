@@ -24,3 +24,7 @@ xhr.onload = function() {
     });
 }
 xhr.send();
+
+function openCart(){
+    cartProd.classList.toggle('hide')
+}
